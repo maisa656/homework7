@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-[#141519]">
       {!submitted ? (
-        <div className="bg-[#1f2630] w-[340px] p-6 rounded-2xl text-white">
+        <div className="bg-[#1f2630] w-[600px] p-6 rounded-2xl text-white">
           
           <div className="bg-[#262f38] w-10 h-10 flex items-center justify-center rounded-full mb-6">
             ⭐
@@ -54,7 +54,7 @@ export default function App() {
           </button>
         </div>
       ) : (
-        <div className="bg-[#1f2630] w-[500px] p-6 rounded-2xl text-center text-white">
+        <div className="bg-[#1f2630] w-[340px] p-6 rounded-2xl text-center text-white">
           
           <div className="mb-6">📱</div>
 
