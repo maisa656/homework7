@@ -54,7 +54,7 @@ export default function App() {
           </button>
         </div>
       ) : (
-        <div className="bg-[#1f2630] w-[340px] p-6 rounded-2xl text-center text-white">
+        <div className="bg-[#1f2630] w-[500px] p-6 rounded-2xl text-center text-white">
           
           <div className="mb-6">📱</div>
 
